@@ -9,4 +9,4 @@ let multiply = num1 * num2
  let random = Math.floor(Math.random() * 10) + 1;
 
 
-let mod = %= 4;
+let mod = x % y = 4;
